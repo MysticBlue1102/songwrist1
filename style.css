@@ -1,0 +1,12 @@
+body
+{
+    background-size: cover;
+   
+}
+
+canvas{
+    border: 10px solid white;
+    border-color: darkblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px cornflowerblue;
+}
